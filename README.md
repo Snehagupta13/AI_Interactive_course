@@ -1,4 +1,3 @@
-## Project Structure 
 Learning_Assistant/
 │── .venv/              # Virtual environment (not tracked in git)
 │── assets/             # Static assets (images, icons, etc.)
@@ -19,6 +18,7 @@ Learning_Assistant/
 │── requirements.txt    # Python dependencies
 │── README.md           # Project documentation (this file)
 │── uv.lock             # Lock file for dependency resolution
+
 
 
 🚀 Features
@@ -100,3 +100,4 @@ You are free to use, modify, and distribute this project with proper attribution
 ✨ That’s a clean, professional, and detailed README that GitHub will render beautifully.
 
 Would you like me to also add badges (Python version, License, Last Commit, etc.) at the top so the README looks more polished and professional?
+
