@@ -1,25 +1,6 @@
-Learning_Assistant/
-│── .venv/              # Virtual environment (not tracked in git)
-│── assets/             # Static assets (images, icons, etc.)
-│── backend/            # Core backend logic
-│   ├── gamify.py       # Gamification features
-│   ├── generator.py    # Content generation (e.g., quiz/content)
-│   ├── progress.py     # Progress tracking logic
-│   ├── quiz.py         # Quiz creation and evaluation
-│   ├── rag.py          # Retrieval-Augmented Generation (RAG)
-│   ├── theme.py        # Theming & customization
-│   ├── utils.py        # Utility/helper functions
-│── data/               # Local dataset(s) or exported content
-│── .env                # Environment variables (ignored by git)
-│── .gitignore          # Files/folders ignored by git
-│── app.py              # Main app entry point
-│── main.py             # Script runner / CLI
-│── pyproject.toml      # Project dependencies & metadata
-│── requirements.txt    # Python dependencies
-│── README.md           # Project documentation (this file)
-│── uv.lock             # Lock file for dependency resolution
 
 
+## AI Interactive Courses
 
 🚀 Features
 
@@ -100,4 +81,5 @@ You are free to use, modify, and distribute this project with proper attribution
 ✨ That’s a clean, professional, and detailed README that GitHub will render beautifully.
 
 Would you like me to also add badges (Python version, License, Last Commit, etc.) at the top so the README looks more polished and professional?
+
 
